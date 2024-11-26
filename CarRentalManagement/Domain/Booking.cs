@@ -1,6 +1,6 @@
 ﻿namespace CarRentalManagement.Domain
 {
-    public class Booking:basedomainmodel
+    public class Booking: basedomainmodel
     {
         public DateTime DateOut { get; set; } 
         
